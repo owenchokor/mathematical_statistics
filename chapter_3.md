@@ -5,8 +5,8 @@ when $X$ and $Y$ are discrete, **Joint Probability Density Function** $f_{X, Y} 
 $$f_{X, Y} (x, y) = P(X = x, Y = y)$$
 
 
-when continuous:
-$$P[(X, Y) \in A] = \iint _A f_{X, Y}(x, y)dxdy$$
+when continuous:  
+$`P[(X, Y) \in A] = \iint _A f_{X, Y}(x, y)dxdy`$
 
 --------
 joint PDF satisfies:
@@ -15,11 +15,11 @@ joint PDF satisfies:
 (2) $\sum\limits_{x}^{} \sum\limits_{y}^{}f_{X, Y}(x, y) = 1$ (when discrete), $\int_{-\infin}^{\infin}\int_{-\infin}^{\infin}f_{X, Y}(x, y)dxdy = 1$
 
 also, in a k-dimensional space $A \subset R^k$, the probability of $(X_1, X_2, ..., X_k) \in A$ is:
-$$P[(X_1, X_2, ..., X_k) \in A] = \begin{cases}
+$`P[(X_1, X_2, ..., X_k) \in A] = \begin{cases}
 \sum ... \sum\limits_{(x_1, ..., x_k)\in A} f(x_1, x_2, ..., x_k)\quad \text{(when discrete)} \\
 \int ... \int_{A} f(x_1, x_2, ..., x_k)dx_1 dx_2 ... dx_k\quad \text{(when continuous)}
 \end{cases}
-$$
+`$
 
 -------
 ### Thm 2.4
