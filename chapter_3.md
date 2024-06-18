@@ -6,7 +6,7 @@ $$f_{X, Y} (x, y) = P(X = x, Y = y)$$
 
 
 when continuous:
-$$P[(X, Y) \in A] = \iint _A f_{X, Y}(x, y)dxdy$$
+$`P[(X, Y) \in A] = \iint _A f_{X, Y}(x, y)dxdy`$
 
 --------
 joint PDF satisfies:
