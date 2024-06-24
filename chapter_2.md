@@ -12,7 +12,7 @@ $`P[(X, Y) \in A] = \iint _A f_{X, Y}(x, y)dxdy`$
 joint PDF satisfies:
 
 (1) $f_{X, Y}(x, y) \geq 0$  
-(2) $\sum\limits_{x}^{} \sum\limits_{y}^{}f_{X, Y}(x, y) = 1$ (when discrete), $\int_{-\infin}^{\infin}\int_{-\infin}^{\infin}f_{X, Y}(x, y)dxdy = 1$
+(2) $\sum\limits_{x}^{} \sum\limits_{y}^{}f_{X, Y}(x, y) = 1$ (when discrete), $\int_{-\infty}^{\infty}\int_{-\infty}^{\infty}f_{X, Y}(x, y)dxdy = 1$
 
 also, in a k-dimensional space $A \subset R^k$, the probability of $(X_1, X_2, ..., X_k) \in A$ is:
 $`P[(X_1, X_2, ..., X_k) \in A] = \begin{cases}
