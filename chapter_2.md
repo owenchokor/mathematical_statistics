@@ -35,7 +35,7 @@ $$ f(x_1, x_2, ..., x_k) = \frac{\partial^k}{\partial x_1 ... \partial x_k} F(x_
 #### **example 2.7**
 joint PDF of two variables $X$, $Y$ are:
 
-$$ F_{X, Y}(x, y) = xy (0<x<1, 0<y<1) $$  
+$$ F_{X, Y}(x, y) = xy (0<x<1, 0<y<1) $$
 
 calculate $f_{X, Y}(x, y)$ and $P(X^2 < Y)$.
 
